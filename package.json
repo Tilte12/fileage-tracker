@@ -9,6 +9,13 @@
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "git",
+    "history",
+    "commits",
+    "authors",
+    "fileage"
+  ],
   "main": "./out/extension.js",
   "contributes": {
     "commands": [
@@ -32,5 +39,8 @@
     "@vscode/test-cli": "^0.0.15",
     "@vscode/test-electron": "^3.0.0",
     "typescript": "^5.8.3"
-  }
+  },
+  "publisher": "my-fileage-tools"
+  
+
 }
